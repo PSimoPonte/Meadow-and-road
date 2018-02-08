@@ -8,3 +8,4 @@ instead, will be gray squares representing the street class. When the user click
 "lawn" the box will become "street" and if he clicks on a "road" box the box will become "lawn".
 Subsequently when the user will click on the "AddAuto" button and then on a road type box a 
 red dot will appear.
+When the user clicks on the "start" button of the main window, another window will appear with some buttons
